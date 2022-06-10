@@ -1,4 +1,4 @@
-# flashlight | APP de lanterna com React Native
+# Flashlight | APP de lanterna com React Native
 
 Aplicativo Mobile para ligar e desligar lanterna ao chacoalhar o celular e ao clicar também.
 
